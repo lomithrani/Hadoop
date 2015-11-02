@@ -8,6 +8,7 @@ After creating a repository in github I edited  AreaBalance.java file I compiled
 * `jar cf wc.jar AreaBalance*.class`
 * `hadoop jar wc.jar WordCount /res/mapreduce_assignment output/areabalance`
 * `hadoop fs -cat output/areabalance/part-r-00000 > AreaBalance.csv`
+
 >Question : Is it useful to use the reducer class as a combiner ? Justify.
 
 As we only have one one chunk, it is not, we will perform twice the same operation
