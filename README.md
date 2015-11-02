@@ -18,4 +18,5 @@ As we only have one one chunk, it is not, we will perform twice the same operati
 
 ##Part 2
 With the same process:
-[FriendAverage](https://github.com/lomithrani/Hadoop/blob/master/FriendAverage.java)
+[FriendAverage.java](https://github.com/lomithrani/Hadoop/blob/master/FriendAverage.java)
+[FriendAverage.csv](https://github.com/lomithrani/Hadoop/blob/master/FriendAverage.csv)
