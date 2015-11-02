@@ -15,3 +15,7 @@ As we only have one one chunk, it is not, we will perform twice the same operati
 >BONUS :Provide a csv export for your MapReduce result
 
 [AreaBalance.csv](https://github.com/lomithrani/Hadoop/blob/master/AreaBalance.csv)
+
+##Part 2
+With the same process:
+[FriendAverage](https://github.com/lomithrani/Hadoop/blob/master/FriendAverage.java)
