@@ -6,7 +6,7 @@ After creating a repository in github I edited  [AreaBalance.java](https://githu
 
 * `hadoop com.sun.tools.javac.Main AreaBalance.java`
 * `jar cf wc.jar AreaBalance*.class`
-* `hadoop jar wc.jar WordCount /res/mapred_assignment output/areabalance`
+* `hadoop jar wc.jar AreaBalance /res/mapred_assignment output/areabalance`
 * `hadoop fs -cat output/areabalance/part-r-00000 > AreaBalance.csv`
 
 >Question : Is it useful to use the reducer class as a combiner ? Justify.
